@@ -1,0 +1,3 @@
+[submodule "Soyoon"]
+	path = Soyoon
+	url = https://github.com/soyoon/SoYoon.git
