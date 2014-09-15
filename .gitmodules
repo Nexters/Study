@@ -1,3 +1,9 @@
-[submodule "Soyoon"]
-	path = Soyoon
-	url = https://github.com/soyoon/SoYoon.git
+[submodule "JaeYoung"]
+	path = JaeYoung
+	url = git@github.com:rangken/AlgorithmStudy.git
+[submodule "HaGyut"]
+	path = HaGyut
+	url = https://github.com/Hagyut/study.git
+[submodule "lifenjoy51"]
+	path = lifenjoy51
+	url = https://github.com/lifenjoy51/study.git
