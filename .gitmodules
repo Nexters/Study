@@ -1,3 +1,6 @@
 [submodule "JaeYoung"]
 	path = JaeYoung
 	url = git@github.com:rangken/AlgorithmStudy.git
+[submodule "HaGyut"]
+	path = HaGyut
+	url = https://github.com/Hagyut/study.git
