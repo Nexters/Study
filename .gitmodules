@@ -4,3 +4,6 @@
 [submodule "HaGyut"]
 	path = HaGyut
 	url = https://github.com/Hagyut/study.git
+[submodule "lifenjoy51"]
+	path = lifenjoy51
+	url = https://github.com/lifenjoy51/study.git
