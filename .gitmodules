@@ -7,6 +7,6 @@
 [submodule "lifenjoy51"]
 	path = lifenjoy51
 	url = https://github.com/lifenjoy51/study.git
-[submodule "SoYoon"]
-	path = SoYoon
+[submodule "Soyoon"]
+	path = Soyoon
 	url = https://github.com/soyoon/SoYoon.git
